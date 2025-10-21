@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Project 3
-permalink: /Project 3
+layout: notebook
+title: "HDB Price Prediction"
+permalink: /notebooks/hdb-price-prediction/
 ---
 
 ```python
