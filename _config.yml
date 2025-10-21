@@ -5,3 +5,7 @@ url: "https://benng-kc.github.io"
 markdown: kramdown
 theme: minima
 permalink: pretty
+collections:
+  notebooks:
+    output: true
+    permalink: /notebooks/:title/
