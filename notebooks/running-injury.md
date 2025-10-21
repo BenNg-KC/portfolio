@@ -1,7 +1,7 @@
 ---
 layout: page
-title: capstone_model
-permalink: /capstone_model
+title: Running Injury Prediction
+permalink: /running-injury
 ---
 
 ```python
