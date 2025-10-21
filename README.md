@@ -1,3 +1,9 @@
-# Benjamin's Data Analytics Portfolio
-These are some of the projects that I have completed to-date:
+---
+layout: default
+title: Home
+permalink: /
+---
+
+# Welcome
+This is my portfolio of data analytics projects that I have completed to date.
 
