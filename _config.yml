@@ -5,3 +5,11 @@ plugins:
 title: "My Data Analytics Portfolio"
 theme: minima
 markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
