@@ -1,0 +1,21 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    <header style="padding:1rem; border-bottom:1px solid #eee;">
+      <a href="{{ "/" | relative_url }}"><strong>{{ site.title }}</strong></a>
+    </header>
+
+    <main style="padding:2rem;">
+      {{ content }}
+    </main>
+
+    <footer style="padding:1rem; border-top:1px solid #eee; color:#666;">
+      © {{ site.title }} • Built with Jekyll / GitHub Pages
+    </footer>
+  </body>
+</html>
