@@ -8,5 +8,5 @@ permalink: /
 
 Welcome — below are links to the data analytics projects that I have completed so far:
 
-- [HDB Price Prediction]({{ "/notebooks/hdb-price-prediction/" | relative_url }})
-- [Running Injury Prediction]({{ "/notebooks/running-injury/" | relative_url }})
+- [HDB Price Prediction](/notebooks/hdb-price-prediction/)
+- [Running Injury Prediction](/notebooks/running-injury/)
