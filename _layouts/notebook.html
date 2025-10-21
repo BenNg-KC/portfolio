@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<main class="notebook-container">
+  <article class="notebook-article">
+    <header class="notebook-header">
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% if page.date %}
+        <p class="page-date">{{ page.date | date: "%B %d, %Y" }}</p>
+      {% endif %}
+    </header>
+
+    <section class="notebook-content">
+      {{ content }}
+    </section>
+  </article>
+</main>
+
+<style>
+/* Notebook layout styling (responsive, code-friendly) */
+.notebook-container { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem; background:#fff; border-radius:10px;}
+.notebook-content pre, .notebook-content code { background:#f6f8fa; padding:0.6rem; border-radius:6px; overflow:auto; font-family: monospace; }
+.notebook-content img { max-width:100%; height:auto; display:block; margin:1rem auto; border-radius:8px; }
+.notebook-content table { width:100%; border-collapse:collapse; margin:1rem 0; }
+.notebook-content th, .notebook-content td { border:1px solid #ddd; padding:0.6rem; text-align:left; }
+</style>
