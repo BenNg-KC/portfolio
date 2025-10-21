@@ -1,15 +1,7 @@
-remote_theme: pages-themes/dinky@v0.2.0
-
 title: "My Data Analytics Portfolio"
+description: "Jupyter notebook portfolio"
+baseurl: ""
+url: "https://benng-kc.github.io"
 markdown: kramdown
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+theme: minima
+permalink: pretty
