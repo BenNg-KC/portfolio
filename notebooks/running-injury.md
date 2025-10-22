@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Running Injury Prediction"
-permalink: /notebooks/running-injury
+permalink: /notebooks/running-injury/
 ---
 
 ```python
