@@ -1,5 +1,5 @@
 ---
-layout: notebook
+layout: page
 title: Running Injury Prediction
 permalink: /notebooks/running-injury
 ---
