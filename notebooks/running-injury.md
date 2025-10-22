@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Running Injury Prediction
+title: "Running Injury Prediction"
 permalink: /notebooks/running-injury
 ---
 
