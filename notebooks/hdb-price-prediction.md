@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: notebook
 title: "HDB Price Prediction"
 permalink: /notebooks/hdb-price-prediction/
 ---
