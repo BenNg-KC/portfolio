@@ -8,5 +8,5 @@ permalink: /
 
 Welcome — below are links to the data analytics projects that I have completed so far:
 
-- [HDB Price Prediction](/notebooks/hdb-price-prediction/)
-- [Running Injury Prediction](/notebooks/running-injury/)
+- [HDB Price Prediction](/portfolio/notebooks/hdb-price-prediction/)
+- [Running Injury Prediction](/portfolio/notebooks/running-injury/)
