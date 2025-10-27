@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: notebook
 title: "HDB Price Prediction"
+date: 2025-10-21
 permalink: /notebooks/hdb-price-prediction/
+excerpt: "EDA and baseline modeling for predicting HDB resale prices (Project 3)."
+thumbnail: "/assets/images/hdb-thumb.png"
 ---
 
 ```python
